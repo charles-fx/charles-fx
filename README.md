@@ -1,6 +1,6 @@
 ## Profile
 
-Backend software engineer specialized in data engineering. Can also contribute to frontend.
+Full Stack, backend-first software engineer specialized in data engineering.
 
 Main focus areas:
 
